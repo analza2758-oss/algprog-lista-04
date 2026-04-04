@@ -25,7 +25,8 @@ Os exercícios têm como objetivo praticar conceitos fundamentais de programaç�
 ---
 
 ## 📝 Exercícios resolvidos
-
+| Opção | Exercício |
+| :---: | :--- |
 | 1 | [Exercício 1](zeroedez.java) |
 | 2 | [Exercício 2](usuariosenha.java) |
 | 3 | [Exercício 3](informacoes.java) |
