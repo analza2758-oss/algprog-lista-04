@@ -26,54 +26,16 @@ Os exercícios têm como objetivo praticar conceitos fundamentais de programaç�
 
 ## 📝 Exercícios resolvidos
 
-### 🔹 1. Validação de nota
-
-Programa que solicita uma nota entre 0 e 10 e continua pedindo até que o valor seja válido.
-
-### 🔹 2. Validação de senha
-
-Não permite que a senha seja igual ao nome do usuário.
-
-### 🔹 3. Validação de dados
-
-Valida:
-
-* Nome (mínimo 3 caracteres)
-* Idade (entre 0 e 150)
-* Salário (maior que 0)
-* Sexo (F ou M)
-* Estado civil (S, C, V, D)
-
-### 🔹 4. Crescimento populacional
-
-Calcula em quantos anos a população de um país A ultrapassa ou iguala a de um país B.
-
-### 🔹 5. Versão interativa do crescimento populacional
-
-Permite ao usuário informar os dados e valida as entradas.
-
-### 🔹 6. Impressão de números
-
-Exibe números de 1 a 20:
-
-* Um abaixo do outro
-* Em sequência na mesma linha
-
-### 🔹 7. Maior número
-
-Lê 5 números e informa o maior.
-
-### 🔹 8. Soma e média
-
-Lê 5 números e calcula a soma e a média.
-
-### 🔹 9. Números ímpares
-
-Mostra apenas os números ímpares entre 1 e 50.
-
-### 🔹 10. Intervalo entre números
-
-Recebe dois números e exibe os valores entre eles.
+| 1 | [Exercício 1](zeroedez.java) |
+| 2 | [Exercício 2](usuariosenha.java) |
+| 3 | [Exercício 3](informacoes.java) |
+| 4 | [Exercício 4](populacao.java) |
+| 5 | [Exercício 5](alteracaopopulacao.java) |
+| 6 | [Exercício 6](umevinte.java) |
+| 7 | [Exercício 7](maiornumero.java) |
+| 8 | [Exercício 8](somaemedia.java) |
+| 9 | [Exercício 9](impares.java) |
+| 10 | [Exercício 10](intervalonumeros.java) |
 
 ---
 
