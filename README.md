@@ -4,10 +4,6 @@
 
 Este repositório contém a resolução da **Lista de Exercícios IV** da disciplina de **Algoritmos e Programação**, do Centro Universitário UMA.
 
-## 👨‍🏫 Professor
-
-Daniel Henrique Matos de Paiva
-
 ---
 
 ## 💻 Linguagem utilizada
