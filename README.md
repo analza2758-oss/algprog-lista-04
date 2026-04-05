@@ -1,4 +1,4 @@
-# algprog-lista-04
+# algprog-lista-04-java
 
 # 📚 Lista de Exercícios IV - Algoritmos e Programação
 
